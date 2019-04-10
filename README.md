@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://tea-note.oss-cn-hangzhou.aliyuncs.com/website/overview-bigeditor.jpeg">
+  <img width="800" height="546" src="./overview.jpeg">
 </p>
 
 ## 提交反馈
