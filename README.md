@@ -20,7 +20,7 @@
 ## 微信反馈群
 我们也欢迎您加入我们的微信反馈群跟我们更及时地沟通：
 
-![](http://tea-note.oss-cn-hangzhou.aliyuncs.com/v2ex/small-pics/feedback-qr-3.jpeg)
+![](https://tea-note.oss-cn-hangzhou.aliyuncs.com/v2ex/small-pics/feedback-qr-3-xs.jpeg)
 
 ## 下载使用
 请前往Tea的官网：https://www.haocha.co/ 下载最新版Mac或Windows客户端。
