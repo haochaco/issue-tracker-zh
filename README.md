@@ -17,10 +17,10 @@
 - 描述事实（环境、具体版本等）与期待效果
 - 尽量多的提供复现场景（推荐使用 http://recordit.co/ 录屏）
 
-## 微信反馈群
-我们也欢迎您加入我们的微信反馈群跟我们更及时地沟通：
+## 微信官方客服
+我们也欢迎您直接添加我们的微信官方客服号“小茶”，跟我们更及时地沟通：
 
-![](https://tea-note.oss-cn-hangzhou.aliyuncs.com/qr-codes/feedback-qr-10.jpeg)
+![](https://tea-note.oss-cn-hangzhou.aliyuncs.com/qr-codes/feedback-qr-160.jpeg)
 
 ## 下载使用
 请前往Tea的官网：https://www.haocha.co/ 下载最新版Mac或Windows客户端。
